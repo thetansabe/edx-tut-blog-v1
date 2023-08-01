@@ -1,5 +1,6 @@
 Series tìm hiểu XBlock
 =============================
+.. _xblock_overview:
 
 Tổng quan về XBlock
 -------------------
